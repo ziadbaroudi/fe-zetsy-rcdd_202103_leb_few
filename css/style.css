@@ -25,3 +25,8 @@ h1{
   font-family: 'Baskerville', serif;
   color: DarkGray; 
 }
+img {
+  border: 1px;
+  border-color: grey;
+  
+}
